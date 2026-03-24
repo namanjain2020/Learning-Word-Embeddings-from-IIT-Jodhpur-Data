@@ -3,7 +3,6 @@
 ## 👨‍🎓 Author
 
 **Naman Jain (B22BB027)**
-Instructor: Prof. Anand Mishra
 Indian Institute of Technology Jodhpur
 
 ---
