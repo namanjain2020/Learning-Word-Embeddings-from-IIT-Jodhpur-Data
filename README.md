@@ -156,13 +156,9 @@ A hybrid system was built combining:
 
 ```
 ├── notebook.ipynb
-├── corpus.txt
-├── embedding_plot_sg.png
-├── embedding_plot_cbow.png
-├── report.tex
+├── Corpus.txt
 └── README.md
 ```
-
 ---
 
 ## ✅ Conclusion
